@@ -21,3 +21,5 @@
 ![complete_flow_vtr_vpr](https://user-images.githubusercontent.com/59352026/159933882-cb36305e-1f17-44e5-9b33-b82aa7e6795e.jpg)
 ## Generate Post Implementation Netlist
 ![post_synthesis](https://user-images.githubusercontent.com/59352026/159934894-dbe76771-d90c-4a3e-b66b-f3fc965dafd9.jpg)
+## Post Implementation Netlist Simulation
+![post_imp_simulation](https://user-images.githubusercontent.com/59352026/159962289-79f3ef78-ad31-4d4d-9a06-82ca063ecb55.jpg)
