@@ -12,3 +12,7 @@ The verilog code and test bench code is attached in the main folder.
 ![constraints](https://user-images.githubusercontent.com/59352026/159833885-8772c2f8-007a-4b00-a6d4-02c5c05f0432.jpg)
 ## The overall summary of the design:
 ![summary_new](https://user-images.githubusercontent.com/59352026/159833889-48a97e19-cae7-4e62-a6c2-cbe198cc1bf1.jpg)
+## The timing report generated after implementation for virtual I/O design:
+![timing_post_implementation_vio](https://user-images.githubusercontent.com/59352026/159862197-d61df568-b7d8-44b1-8b71-9dd44b69a668.jpg)
+## The overall summary of the vio design:
+![summary_vio](https://user-images.githubusercontent.com/59352026/159862269-c2558b6a-4f77-4ba6-a5a7-4147b2daea1b.jpg)
