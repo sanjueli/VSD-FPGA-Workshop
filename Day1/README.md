@@ -1,4 +1,4 @@
-# FPGA Workshop (March 23-27' 2022)
+# FPGA Workshop (March 23-27' 2022): Day 1: Counter Design & Implementation
 ## A 4-bit binary counter was implemented using Verilog on Basys3 board. 
 The verilog code and test bench code is attached in the main folder.
 
