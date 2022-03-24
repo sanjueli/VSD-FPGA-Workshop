@@ -19,3 +19,5 @@
 ![vtr_pr](https://user-images.githubusercontent.com/59352026/159933782-30509c5d-b993-4569-a98b-1597b8adde0d.jpg)
 ## Analysis with complete VTR & VPR Flow
 ![complete_flow_vtr_vpr](https://user-images.githubusercontent.com/59352026/159933882-cb36305e-1f17-44e5-9b33-b82aa7e6795e.jpg)
+## Generate Post Implementation Netlist
+![post_synthesis](https://user-images.githubusercontent.com/59352026/159934894-dbe76771-d90c-4a3e-b66b-f3fc965dafd9.jpg)
