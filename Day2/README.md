@@ -13,3 +13,9 @@
 ![critical_paths](https://user-images.githubusercontent.com/59352026/159914401-6e474f67-81a2-4455-a42d-9fe290f833c9.jpg)
 ## After observing the reports, it is seen that all slacks are negative. This is so because the default .sdc was taken. Next we specify a tseng.sdc file (uploaded in folder here), and all paths (49) are postive slack, for a data arrival time of 10 ns.
 ![positive_slack_with_sdc_file_added](https://user-images.githubusercontent.com/59352026/159914649-06ac415f-c9e2-4b3e-b0a5-8cfe7852d705.jpg)
+## VTR script run for counter.v
+![VTR_script_run](https://user-images.githubusercontent.com/59352026/159933620-5e4de520-d7b7-4dd4-a525-3629368b0301.jpg)
+## VTR Place and Route gui
+![vtr_pr](https://user-images.githubusercontent.com/59352026/159933782-30509c5d-b993-4569-a98b-1597b8adde0d.jpg)
+## Analysis with complete VTR & VPR Flow
+![complete_flow_vtr_vpr](https://user-images.githubusercontent.com/59352026/159933882-cb36305e-1f17-44e5-9b33-b82aa7e6795e.jpg)
