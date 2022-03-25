@@ -23,3 +23,7 @@
 ![post_synthesis](https://user-images.githubusercontent.com/59352026/159934894-dbe76771-d90c-4a3e-b66b-f3fc965dafd9.jpg)
 ## Post Implementation Netlist Simulation
 ![post_imp_simulation](https://user-images.githubusercontent.com/59352026/159962289-79f3ef78-ad31-4d4d-9a06-82ca063ecb55.jpg)
+## Timing analysis report for 5ns clock
+![timing_5ns_clock](https://user-images.githubusercontent.com/59352026/160045757-6a2953f7-01c5-4b50-b6b1-19734d833142.jpg)
+## Area report for counter
+![area_stats](https://user-images.githubusercontent.com/59352026/160045797-b441d817-6ed1-4ae7-a260-d2a30c314064.jpg)
