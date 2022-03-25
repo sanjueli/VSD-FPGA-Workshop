@@ -1,6 +1,10 @@
-#Open FPGA
+# Open FPGA
 # VPR & VTR Flow
+
 ## In this page we share the entire VPR Flow & VTR Flow with results for a design
+![VTR_flow](https://user-images.githubusercontent.com/59352026/160138048-2c6b7397-8d88-46ef-b1bb-f409b38667e0.jpg)
+![vtr_2](https://user-images.githubusercontent.com/59352026/160138303-65e95df9-4d86-45d1-a73b-fdf2ed4b321e.jpg)
+
 ## VPR Flow results log 
 ![vpr_flow_result_log](https://user-images.githubusercontent.com/59352026/159914164-10be29a2-4bfa-49bf-86e4-e2fcb66ed7ee.jpg)
 ## Interactive VPR Flow: Initial Placement Display
