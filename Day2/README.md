@@ -27,3 +27,4 @@
 ![timing_5ns_clock](https://user-images.githubusercontent.com/59352026/160045757-6a2953f7-01c5-4b50-b6b1-19734d833142.jpg)
 ## Area report for counter
 ![area_stats](https://user-images.githubusercontent.com/59352026/160045797-b441d817-6ed1-4ae7-a260-d2a30c314064.jpg)
+## Power Analysis (Pending !!!)
