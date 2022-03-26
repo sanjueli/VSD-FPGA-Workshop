@@ -11,3 +11,15 @@ SOFA (Skywater Opensource FPGAs) are a series of open-source FPGA IPs using the 
 ## vpr_stdout.log provides design stats
 ![report](https://user-images.githubusercontent.com/59352026/160227348-9156a8f7-dcdc-496d-91f0-59c822d94de3.jpg)
 
+## OpenFPGA run with constraints for 4-bit counter
+![run_with_constraints](https://user-images.githubusercontent.com/59352026/160228201-4a901567-21b5-4670-8b8d-4a91608ca537.jpg)
+
+## Timing report for 20ns clock: Setup Time
+![run_with_constraints_4bit](https://user-images.githubusercontent.com/59352026/160228531-5a528bc6-496c-44d7-908d-27e63073fa2f.jpg)
+
+## Timing report for 20ns clock:Hold Time
+![run_with_constraints_4bit_hold](https://user-images.githubusercontent.com/59352026/160228612-2922d57c-7ee4-4c1d-b418-11cffa380d95.jpg)
+
+
+
+
