@@ -20,6 +20,12 @@ SOFA (Skywater Opensource FPGAs) are a series of open-source FPGA IPs using the 
 ## Timing report for 20ns clock:Hold Time
 ![run_with_constraints_4bit_hold](https://user-images.githubusercontent.com/59352026/160228612-2922d57c-7ee4-4c1d-b418-11cffa380d95.jpg)
 
+## Post Synthesis Verilog file generation
+![post_syn](https://user-images.githubusercontent.com/59352026/160228936-4ddc1a1a-d948-48b6-b209-e401915f8eeb.jpg)
+
+## Post Synthesis Design Simulation
+![post_syn_simulation](https://user-images.githubusercontent.com/59352026/160229622-0dd00ebf-fc2a-4f40-9b59-d246eec29c0a.jpg)
+
 
 
 
