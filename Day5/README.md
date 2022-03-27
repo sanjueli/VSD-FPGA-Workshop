@@ -23,3 +23,4 @@
 ## Post Synthesis Simulation
 ![sim](https://user-images.githubusercontent.com/59352026/160271138-edd7a8a1-561e-402c-a559-06189d8175a6.jpg)
 
+## Power analysis
