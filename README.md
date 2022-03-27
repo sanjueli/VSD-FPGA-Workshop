@@ -1,4 +1,4 @@
-# VSD-FPGA workshop participant repository: Sanjay Eligar
+# VSD-FPGA workshop 
 ## FPGAs - Fabric, Design and Architecture
 **The workshop was conducted by VLSI System Design – Intelligent Assessment Technology (VSD-IAT) from 23-27 March' 2022 worldwide in online remote access mode.** 
 
@@ -31,3 +31,12 @@ The workshop was spread over 5 days with the day-wise break up of topics as unde
    + Skywater OpenSource FPGA (SOFA): RVMyth on SOFA 
    + Area, timing and post implementation
   
+# Report by
+Dr. Sanjay Eligar, Associate Professor, KLE Tech, Hubballi - eligar@kletech.ac.in
+
+## Acknowledgements
+Kunal Ghosh, Co-founder, VLSI System Design (VSD) Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+
+Nandhitha Rao, IIIT Bengaluru. - nanditha.rao@iiitb.ac.in
+
+KLE Technological University, Hubballi - 580031. (Karnataka, India)
