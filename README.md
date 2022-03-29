@@ -39,4 +39,4 @@ Kunal Ghosh, Co-founder, VLSI System Design (VSD) Corp. Pvt. Ltd. - kunalpghosh@
 
 Nandhitha Rao, IIIT Bengaluru. - nanditha.rao@iiitb.ac.in
 
-KLE Technological University, Hubballi - 580031. (Karnataka, India)
+KLE Technological University, Hubballi - 580031. (Karnataka, India) 
