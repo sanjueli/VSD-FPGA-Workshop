@@ -25,5 +25,12 @@
 ![timing_run_rvmyth](https://user-images.githubusercontent.com/59352026/160590201-4b057b85-bdc8-41ae-b725-723375030a10.png)
 
 ## Timing report: Setup
+![setup_timing_report](https://user-images.githubusercontent.com/59352026/160607228-23d7725a-8bfa-404d-b4f4-8f5561ca4f25.png)
+
+## Timing report: Hold
+![hold_timing](https://user-images.githubusercontent.com/59352026/160607267-00e0209b-c74c-4573-99a2-b35a31b70fa4.png)
+
+## Post Implementation Netlist 
+![netlist_rv](https://user-images.githubusercontent.com/59352026/160607385-feb36c7f-377b-4583-b7c5-24d2dab6f01e.png)
 
 
