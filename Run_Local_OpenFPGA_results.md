@@ -17,3 +17,5 @@
 ## Counter Power statistics
 ![power](https://user-images.githubusercontent.com/59352026/160416658-043b03ec-1d59-45a4-99ce-99eae11230b3.png)
 
+## Area Statistics of RVMyth Core
+![area_rvmyth](https://user-images.githubusercontent.com/59352026/160588556-0eef7898-0d4c-476a-9200-fe91a2efee07.png)
