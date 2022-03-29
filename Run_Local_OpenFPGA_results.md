@@ -19,3 +19,11 @@
 
 ## Area Statistics of RVMyth Core
 ![area_rvmyth](https://user-images.githubusercontent.com/59352026/160588556-0eef7898-0d4c-476a-9200-fe91a2efee07.png)
+![area_myth2](https://user-images.githubusercontent.com/59352026/160588885-b91aada9-2ded-4e79-bba2-1fc9747ef3e6.png)
+
+## Timining Analysis Runtime
+![timing_run_rvmyth](https://user-images.githubusercontent.com/59352026/160590201-4b057b85-bdc8-41ae-b725-723375030a10.png)
+
+## Timing report: Setup
+
+
