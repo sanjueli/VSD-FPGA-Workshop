@@ -33,4 +33,20 @@
 ## Post Implementation Netlist 
 ![netlist_rv](https://user-images.githubusercontent.com/59352026/160607385-feb36c7f-377b-4583-b7c5-24d2dab6f01e.png)
 
+# Day2 
+## Running VPR on a Pre-Synthesized Circuit
+![VPR_run](https://user-images.githubusercontent.com/59352026/161048245-921e6f16-1ae5-4ccc-999e-e8092b99e40e.png)
+
+## Interactive run with display (Need to change screen resolution to 1280 x 1024 !!
+![disp1](https://user-images.githubusercontent.com/59352026/161048888-13bf2812-8f7b-409f-91c4-b93dd77c823d.png)
+
+## Toggle Net with Logical Connections
+![disp2](https://user-images.githubusercontent.com/59352026/161049150-fb4f2456-babd-41cc-8c91-09c49845c4e4.png)
+
+## Toggle Critical Paths
+![disp3](https://user-images.githubusercontent.com/59352026/161050051-eb80e664-5d54-4cb0-9b68-2e555775d1fe.png)
+![disp4](https://user-images.githubusercontent.com/59352026/161050829-1df3e5d4-afd3-4521-b6ba-30015b52bdca.png)
+
+
+
 
